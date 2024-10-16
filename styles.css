@@ -71,6 +71,16 @@ body {
     margin: 0.75rem 0;
 }
 
+.blog-preview__info-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.blog-preview__info-link:hover,
+.blog-preview__info-link:active {
+    color: var(--yellow);
+}
+
 .blog-preview__info h1 {
     font-size: 1.25rem;
     font-weight: 800;
@@ -78,7 +88,7 @@ body {
     margin: 0.75rem 0;
 }
 
-.blog-preview__info h1 + p {
+.blog-preview__info a + p {
     color: var(--gray-500);
     font-size: 0.875rem;
     font-weight: 500;
@@ -121,7 +131,7 @@ body {
         font-size: 1.5rem;
     }
 
-    .blog-preview__info h1 + p {
+    .blog-preview__info a + p {
         font-size: 1rem;
     }
 
