@@ -102,6 +102,35 @@ body {
     padding-left: 0.75rem;
 }
 
+@media (min-width: 27.25rem) {
+
+    .blog-preview {
+        max-width: 384px;
+        width: clamp(20.5rem, 18.9800796812749rem + 5.577689243027888vw, 24rem);
+    }
+
+    .blog-preview__info-label {
+        font-size: 0.875rem;
+    }
+
+    .blog-preview__info-date {
+        font-size: 0.875rem;
+    }
+
+    .blog-preview__info h1 {
+        font-size: 1.5rem;
+    }
+
+    .blog-preview__info h1 + p {
+        font-size: 1rem;
+    }
+
+    .blog-preview__author h2 {
+        font-size: 0.875rem;
+    }  
+      
+}
+
 .attribution { 
     font-size: 11px; 
     text-align: center;
