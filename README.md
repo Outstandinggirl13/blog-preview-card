@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Blog preview card made with semantic HTML and CSS](https://www.frontendmentor.io/solutions/blog-preview-card-made-with-semantic-html-and-css-I2vxjAC0Om)
 - Live Site URL: [GitHub Pages](https://outstandinggirl13.github.io/blog-preview-card/)
 
 ## My process
